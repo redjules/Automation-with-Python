@@ -1,6 +1,6 @@
 # Automation with Python
 
-We will create a script to extract the headers of articles and translate them to Spanish using Open AI API.
+We will create a script to extract the headers of articles in a blog post and translate them to Spanish using Open AI API.
 
 # Why Python is so popular for automation?
 
@@ -47,5 +47,18 @@ wen edit our print response.json:
 
 we have created a program that connects to OpenAI API and now we can send whatever prompt we want!
 
+
+![Screenshot 2024-02-27 at 09 00 14](https://github.com/redjules/Automation-with-Python/assets/106017493/c0c126dd-fa70-4bd9-a2a2-c30adccba176)
+
+we write the prompt:
+
+![Screenshot 2024-02-27 at 09 01 47](https://github.com/redjules/Automation-with-Python/assets/106017493/e94d96c7-5738-46ba-af31-a38ad2600c61)
+
+and this is the resulting code from chat gpt:
+
+![Screenshot 2024-02-27 at 09 02 23](https://github.com/redjules/Automation-with-Python/assets/106017493/ddfec76d-15ef-4233-a110-ed98b3de5426)
+
+
+Look for final code in the repo files.
 
 
