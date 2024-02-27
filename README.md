@@ -58,6 +58,21 @@ and this is the resulting code from chat gpt:
 
 ![Screenshot 2024-02-27 at 09 02 23](https://github.com/redjules/Automation-with-Python/assets/106017493/ddfec76d-15ef-4233-a110-ed98b3de5426)
 
+we have to install all the libraries:
+
+![Screenshot 2024-02-27 at 09 08 00](https://github.com/redjules/Automation-with-Python/assets/106017493/bec4aeb4-41c6-44ac-8cc7-6f76d96202ad)
+
+we execute the script:
+
+![Screenshot 2024-02-27 at 09 09 38](https://github.com/redjules/Automation-with-Python/assets/106017493/02d829c8-d50c-4f9e-8ed6-0c98f8787655)
+
+
+Final result:
+
+![Screenshot 2024-02-27 at 09 09 57](https://github.com/redjules/Automation-with-Python/assets/106017493/6b085f0f-1f9c-454f-8360-54237a274dc7)
+
+![Screenshot 2024-02-27 at 09 10 12](https://github.com/redjules/Automation-with-Python/assets/106017493/65459bb9-e69b-42b6-af4d-171cf051e77e)
+
 
 Look for final code in the repo files.
 
