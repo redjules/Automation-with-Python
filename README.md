@@ -1,6 +1,6 @@
 # Automation with Python
 
-We will create a script to extract the headers of articles in a blog post and translate them to Spanish using Open AI API.
+We will create a script to extract the headers of articles in a blog post and translate them to Spanish using the Open AI API.
 
 # Why Python is so popular for automation?
 
