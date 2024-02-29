@@ -41,7 +41,7 @@ and now we execute our script:
 
 ![Screenshot 2024-02-27 at 08 51 05](https://github.com/redjules/Automation-with-Python/assets/106017493/b599a05c-bc0f-4166-9cfa-0489e356dc92)
 
-wen edit our print response.json:
+we edit our print response.json:
 
 ![Screenshot 2024-02-27 at 08 52 36](https://github.com/redjules/Automation-with-Python/assets/106017493/5c928d2f-7d7a-49d3-b78a-fc3d78736ab4)
 
